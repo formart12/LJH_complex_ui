@@ -25,7 +25,7 @@ class _AppState extends State<App> {
         children: [
           FriendsListPage(),
           Container(
-            color: Colors.blue[400],
+            color: Colors.red,
           ),
           Container(
             color: Colors.yellow,
@@ -34,7 +34,7 @@ class _AppState extends State<App> {
             color: Colors.green,
           ),
           Container(
-            color: Colors.yellow[400],
+            color: Colors.yellow,
           ),
         ],
       ),
